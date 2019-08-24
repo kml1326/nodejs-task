@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kml1326/nodejs-task/issues"
   },
-  "homepage": "https://github.com/kml1326/nodejs-task#readme"
+  "homepage": "https://github.com/kml1326/nodejs-task#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
 }
